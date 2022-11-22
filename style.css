@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(182, 255, 231);
+    text-align: center;
+    color: #397AA5;
+    margin-top: 100px;
+}
+h1:hover{
+    cursor: pointer;
+}
+.my_nav_bar{
+    position: fixed;
+    width: 100%;
+    top: 0%;
+}
+.pep_pep_pep{
+    background-color: #1ffffd;
+    color: #123456;
+    margin: 6px 500px;
+}
+img{
+    width: 30%;
+}
